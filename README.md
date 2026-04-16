@@ -51,6 +51,12 @@
 - Consumo de APIs públicas (IBGE, SIDRA)  
 
 ---
+## 🧠 Perfil profissional (resumo)
+
+- **Cargo atual:** Analista de Sistemas — FIOTEC / Instituto Evandro Chagas (2025 - atual)
+- **Experiência anterior:** Desenvolvedor de Sistemas — FAPESPA (2021 - 2025)
+- **Especialidade:** APIs REST, ETL, análise de dados e soluções com Python/R
+- **Formação:** Engenharia da Computação (UFPA) + Especialização em Big Data (FACUMINAS)
 
 ## 👀 Visitantes
 
