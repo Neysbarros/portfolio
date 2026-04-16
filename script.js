@@ -1,7 +1,9 @@
 const botaoResumo = document.getElementById("btn-resumo");
 const campoResumo = document.getElementById("resumo");
 
-botaoResumo.addEventListener("click", () => {
-  const tecnologias = ["Python", "Java", "JavaScript", "R", "Django", "HTMX"];
-  campoResumo.textContent = `Stack principal: ${tecnologias.join(", ")}.`;
-});
+if (botaoResumo && campoResumo) {
+  botaoResumo.addEventListener("click", () => {
+    campoResumo.textContent =
+      "Atuação atual no Instituto Evandro Chagas com SIGA, integração de APIs REST e pipelines de dados usando Python, Django, SQL, Pandas e R.";
+  });
+}
