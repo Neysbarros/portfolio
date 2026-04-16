@@ -4,6 +4,17 @@ Analista de Sistemas com experiência no desenvolvimento de aplicações web, in
 
 ---
 
+## 📁 Arquivos do portfólio neste repositório
+
+- `index.html`: página principal do portfólio.
+- `styles.css`: estilos da página.
+- `script.js`: interação do botão para resumo dinâmico.
+- `app.py`: exemplo em Python com resumo da stack.
+- `Portfolio.java`: exemplo simples em Java listando projetos.
+- `analise.R`: script em R para resumo de horas de projetos.
+
+---
+
 ## 🚀 Tecnologias e Ferramentas
 
 ### 💻 Backend
@@ -13,8 +24,10 @@ Analista de Sistemas com experiência no desenvolvimento de aplicações web, in
 
 ### 🌐 Frontend
 - HTML5
+- CSS3
 - Bootstrap
 - HTMX
+-JavaScript
 
 ### 📊 Dados
 - R
